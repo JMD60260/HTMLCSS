@@ -1,6 +1,6 @@
 # la Navbar ne fontionne que sur la page index
 
-## dans le menu vous avez acces aux differentes pages
+## dans le menu de la page index vous avez acces aux differentes pages et apres avoir regarde la page cliquez en haut pour revenir a l'index
 
 ## le Footer fonctionne dans son fichier
 
